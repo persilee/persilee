@@ -23,8 +23,8 @@
  <br/>
  <br/>
 
-<a href="https://github.com/persilee">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=persilee&show_icons=false" alt="persilee's github stats" />
+<a href="https://github.com/persilee" width="300px">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=persilee&show_icons=true" alt="persilee's github stats" />
 </a>
 <a href="https://github.com/persilee">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=persilee&langs_count=6&hide=JavaScript,HTML,CSS&layout=compact" />
