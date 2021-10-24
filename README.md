@@ -27,7 +27,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=persilee&show_icons=true&hide=contribs" alt="persilee's github stats" style="width: 460px;height: 158px;"/>
 </a>
 <a href="https://github.com/persilee">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=persilee&langs_count=6&hide=JavaScript,HTML,CSS&layout=compact" style="height: 158px;width: 335px;margin-left: 10px;" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=persilee&langs_count=6&hide=JavaScript,HTML,CSS&layout=compact" style="height: 158px;width: 335px;margin-left: 16px;" />
 </a>
 <br/>
 <br/>
